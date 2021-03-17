@@ -1,0 +1,1 @@
+{"ast":null,"code":"const allAvos = async (request, response) => {\n  response.end(JSON.stringify({\n    hello: 'world'\n  }));\n};\n\nexport default allAvos;","map":null,"metadata":{},"sourceType":"module"}
